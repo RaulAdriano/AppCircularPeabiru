@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">CircularPeabiru</string>
+    <string name="app_name">Circular Peabiru</string>
+    <string name="hor_rio_da_circular">HORÁRIO DA CIRCULAR</string>
+    <string name="peabiru_campo_mour_o">PEABIRU - CAMPO MOURÃO</string>
+    <string name="s_bados">SÁBADOS</string>
+    <string name="domingos_e_feriados">DOMINGOS E FERIADOS</string>
+    <string name="segunda_sexta">SEGUNDA À SEXTA</string>
+    <string name="valor_da_passagem">VALOR DA PASSAGEM</string>
+    <string name="desenvolvido_por_raul_adriano_ramos">DESENVOLVIDO POR RAUL ADRIANO RAMOS</string>
 </resources>
