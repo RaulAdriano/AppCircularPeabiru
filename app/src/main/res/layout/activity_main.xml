@@ -94,7 +94,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:padding="10dp"
-        android:text=""
+        android:text="3.70"
         android:textAlignment="center"
         android:textSize="30sp"
         app:layout_constraintTop_toBottomOf="@+id/tv_valorTexto"
